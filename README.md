@@ -1,5 +1,8 @@
 # Fake-credit-card-detection-
-Fake-credit-card-detection using machine learning using supervised learning.
-I used Random forest algorthim to build this system.
-In this project we used the RFA to determine the difference between the real and fake credit card transcations.
-I also attached my PPT and project review for clear understanding of this Project.
+Fake Credit Card Detection Using Machine Learning (Supervised Learning)
+
+This project leverages supervised learning techniques to detect fraudulent credit card transactions.
+A Random Forest Algorithm (RFA) was implemented to classify transactions as genuine or fraudulent based on historical data. 
+The model analyzes key transaction patterns to effectively differentiate between real and fake credit card transactions.
+
+
